@@ -88,6 +88,7 @@ public class Node<E> {
 ***
 
 ## Education
+
 ||**Year**|
 | :- | -: |
 |Nursing faculty at Clara Zetkin [Moscow Medical College №2](https://med-info.ru/reference/view/562)|2007-2009|
