@@ -37,3 +37,44 @@
         - Flexbox
 
 ***
+
+## Skills
+
+
+* **HTML5** (Semantic)
+
+* **CSS** (Preprocessor SCSS, BEM methodology, Flexbox, Responsive layout)
+
+* **Java core** (Data structures and algorithms, input-output, PostgreSQL)
+
+* **Javascript** (Fundamental, array, object, basic algoritms)
+
+* **Version control:** Git.
+
+* **Figma** (Creation of layouts for different resolutions)
+
+* **Editors:** VS Code.
+
+***
+
+## Code examples 
+
+``` Java
+public class Node<E> {
+    E item;
+    Node<E> next;
+    Node<E> prev;
+
+    Node(Node<E> prev, E element, Node<E> next) {
+        this.item = element;
+        this.next = next;
+        this.prev = prev;
+    }
+
+    public E getItem() {
+        return item;
+    }
+}
+```
+
+***
