@@ -78,3 +78,26 @@ public class Node<E> {
 ```
 
 ***
+
+## Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siskinbird&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+***
+
+## Education
+||**Year**|
+| :- | -: |
+|Nursing faculty at Clara Zetkin [Moscow Medical College №2](https://med-info.ru/reference/view/562)|2007-2009|
+|Emergency treatment and ambulance practice at [Moscow Medical College №3](https://medcollege7.ru/)|2011-2013|
+|Junior Java Developer course by Petr Arsentev [job4j.ru](https://job4j.ru)|2019-2020|
+|Web-design skill enhancement course at [Plekhanov Russian University of Economics](https://www.rea.ru/)|2021|
+|Javascript pre-school [JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)](https://app.rs.school/certificate/3yslpprc)|2021-2022|
+
+***
+
+## English 
+
+My English level is now - **A2**. I'am currently studying at Duolingo to improve my language skills.
+
+***
