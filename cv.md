@@ -98,6 +98,6 @@ public class Node<E> {
 
 ## English 
 
-My English level is now - **A2**. I'am currently studying at Duolingo to improve my language skills.
+My English level is now - **A2**. I'am currently studying at Duolingo to improve my language skills .
 
 ***
