@@ -45,19 +45,19 @@
 ## Skills
 
 
-* **HTML5** (Semantic)
+* ✅ **HTML5** (Semantic)
 
-* **CSS** (Preprocessor SCSS, BEM methodology, Flexbox, Responsive layout)
+* ✅ **CSS** (Preprocessor SCSS, BEM methodology, Flexbox, Responsive layout)
 
-* **Java core** (Data structures and algorithms, input-output, PostgreSQL)
+* ✅ **Java core** (Data structures and algorithms, input-output, PostgreSQL)
 
-* **Javascript** (Fundamental, array, object, basic algoritms)
+* ✅ **Javascript** (Fundamental, array, object, basic algoritms)
 
-* **Version control:** Git.
+* ✅ **Version control:** Git.
 
-* **Figma** (Creation of layouts for different resolutions)
+* ✅ **Figma** (Creation of layouts for different resolutions)
 
-* **Editors:** VS Code.
+* ✅ **Editors:** VS Code.
 
 ***
 
