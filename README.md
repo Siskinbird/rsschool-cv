@@ -1,2 +1,2 @@
 
-[My CV upgrade v.1.1](https://siskinbird.github.io/rsschool-cv/cv)
+ * ✅  [My CV 2022](https://siskinbird.github.io/rsschool-cv/cv)
