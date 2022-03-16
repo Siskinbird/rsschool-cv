@@ -18,6 +18,8 @@
 
    >Hello, my friend! Back in 2000, I got interested in programming, but then I was young and resisted the voice of my heart. Twenty years after, having a completely different profession, increasing the degree of awareness, I recalled what I really wanted. And here I am now! For a year now, I've been gaining knowledge and I really like it! Every day I'm getting stronger, smarter and more promising! I'm sure I'll become a professional in this interesting and overwhelming sphere!
 
+   >I am well versed in HTML5, CSS and vanilla JavaScript, I use FlexBox and SASS/LESS preprocessors in my projects, I have experience working with the API, I understand and apply adaptive layout, I actively use UX/UI principles. Well versed in GitHub. I am happy to undertake complex and interesting projects. Understand the syntax of various programming languages. 
+
 ***
 
 ## Experience
